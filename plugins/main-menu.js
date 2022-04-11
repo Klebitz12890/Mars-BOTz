@@ -22,10 +22,20 @@ let tags = {
 }
 const defaultMenu = {
   before: `
+  ╭────❑ *MENU* ❑────
+❑────❑ %me
+│✾ Version: %version
+│✾ Library: Baileys-MD
+│✾ Mode: ${global.opts['self'] ? 'Self' : 'publik'}
+│✾ Runtime: %uptime
+╰❑
+╭────❑「 INFO 」❑────
+│•This Bot Is Using Baileys-MD
+╰────
 %readmore`.trimStart(),
-  header: '*%category*',
-  body: '≻ %cmd %islimit %isPremium',
-  footer: '\n',
+  header: '┌ 「 *%category* 」',
+  body: '│≻ %cmd %islimit %isPremium',
+  footer: '└────\n',
   after: `
 `,
 }
