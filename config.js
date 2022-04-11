@@ -3,9 +3,9 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['0'],
-  ['0'],
-  ['6283832492541', 'RHns', true]
+  ['6282260691984', 'Someone✨', true]
+  ['6282124128334', 'RedstoneCraft', true]
+  ['6281211006838', 'Klebitz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -29,11 +29,11 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Made by'
-global.author = 'Mars BOTz'
+global.author = 'Klebitz BOT'
 
-global.wm = 'Mars BOTz by RHns'
-global.eror = 'sedang sibukk'
-global.instagram = 'https://instagram.com/bgsrhnsh'
+global.wm = 'Klebitz BOT by Klebitz'
+global.eror = 'Busy!'
+global.instagram = 'https://instagram.com/12345_zeez'
 global.media = 'https://telegra.ph/file/4797be2e521fc002d70e2.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 
